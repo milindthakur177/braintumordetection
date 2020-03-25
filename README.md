@@ -5,3 +5,6 @@ the model is then saved and converted into tflite format for deployment
 
 
 Model used is Densenet201
+
+
+Model is converted to tflite for mobile deployment purpose.
